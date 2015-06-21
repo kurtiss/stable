@@ -1,0 +1,3 @@
+[submodule "nsadmin"]
+	path = nsadmin
+	url = git@github.com:kurtiss/nsadmin.git
